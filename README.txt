@@ -1,44 +1,33 @@
-Spectral by HTML5 UP
+Strongly Typed by HTML5 UP
 html5up.net | @n33co
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 
 
-A big, modern, blocky affair with a mobile-style menu, fully responsive styling,
-and an assortment of pre-styled elements. So, pretty much what you were expecting
--- except, of course, for how it's put together, specifically:
+This is Strongly Typed, a new site template with a minimal, semi-retro
+look (inspired by old instruction manuals) and, as you might guess from its
+name, a strong emphasis on type. It's fully responsive, built on HTML5/CSS3,
+and includes styling for all basic page elements. Demo images* are courtesy of
+regularjane, an incredibly talented photographer friend of mine. Be sure to
+check out more of her work over at deviantART:
 
-- It's built on Skel 3*, a leaner, more modular rewrite of my responsive framework.
+http://regularjane.deviantart.com/
 
-  (* = still in development as of this writing)
+(* = Not included! Only meant for use with my own on-site demo, so please do NOT download
+and/or use any of Jane's work without her explicit permission!)
 
-- It uses flexbox*, which eliminates all kinds of terrible hacks and clunky layout
-  stopgaps (like CSS grid systems).
-
-  (* = not supported on IE8/9, but non-flexbox fallbacks are included)
-
-- It uses Sass* a lot more intelligently, thanks in part to several new mixins
-  and functions I've been working on (as well as a few by @HugoGiraudel).
-
-  (* = still entirely optional if you prefer vanilla CSS :)
-
-- A ton of other stuff.
-
-In short, Spectral's the culmination of several new things I'm working on/trying out,
-so please, let me know what you think :)
-
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
-
-(* = not included)
+As usual, feedback, bug reports, and comments are not only welcome, but strongly
+encouraged :)
 
 AJ
 n33.co @n33co dribbble.com/n33
+
+PS: Not sure how to get that contact form working? Give formspree.io a try (it's awesome).
 
 
 Credits:
 
 	Demo Images:
-		Unsplash (unsplash.com)
+		regularjane (regularjane.deviantart.com)
 
 	Icons:
 		Font Awesome (fortawesome.github.com/Font-Awesome)
@@ -46,7 +35,8 @@ Credits:
 	Other:
 		jQuery (jquery.com)
 		html5shiv.js (@afarkas @jdalton @jon_neal @rem)
+		CSS3 Pie (css3pie.com)
 		background-size polyfill (github.com/louisremi)
-		Misc. Sass functions (@HugoGiraudel)
 		Respond.js (j.mp/respondjs)
+		jquery.dropotron (n33.co)
 		Skel (skel.io)
